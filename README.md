@@ -9,6 +9,9 @@ I'm a software engineering student with a strong passion for creating innovative
 - **Postman**
 - **MySQL**
 
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,figma,postman&perline=3)](https://skillicons.dev)
+
+
 ## 💼 Experience
 - **Flutter Developer** at Vada House of Mobile
 - **Software Engineering Student**
