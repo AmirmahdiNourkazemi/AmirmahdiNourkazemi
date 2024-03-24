@@ -19,7 +19,7 @@ I'm a software engineering student with a strong passion for creating innovative
 ## 🔗 Connect with Me
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://www.linkedin.com/in/amirmahdi-nourkazemi-04613023a/)
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://www.instagram.com/amirfluts/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
-[<img src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://medium.com/@nourkazemi80)
+[<img src="https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-2/15/medium-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://medium.com/@nourkazemi80)
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://twitter.com/amirfluts?t=b-GOuaf3mJibNbAFHY_mEA&s=09)
 [<img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/telegram-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://t.me/Amnk80)
 [<img src="https://cdn4.iconfinder.com/data/icons/address-book-providers-in-colors/512/gmail-512.png" width="47" height="46" style="margin-right: 5px;"/>](mailto:nourkazemi80@gmail.com)
