@@ -14,9 +14,9 @@ I'm a software engineering student with a strong passion for creating innovative
 - **Software Engineering Student**
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/amirmahdi-nourkazemi-04613023a/)
-- [Instagram](https://www.instagram.com/amirfluts/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
-- [Medium](https://medium.com/@nourkazemi80)
-- [Twitter](https://twitter.com/amirfluts?t=b-GOuaf3mJibNbAFHY_mEA&s=09)
-- [Telegram](https://t.me/Amnk80)
-- [Linktree](https://linktr.ee/Amirmahdi_Nourkazemi)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amirmahdi_Nourkazemi-blue)](https://www.linkedin.com/in/amirmahdi-nourkazemi-04613023a/)
+- [![Instagram](https://img.shields.io/badge/Instagram-Amirfluts-orange)](https://www.instagram.com/amirfluts/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
+- [![Medium](https://img.shields.io/badge/Medium-Nourkazemi80-green)](https://medium.com/@nourkazemi80)
+- [![Twitter](https://img.shields.io/badge/Twitter-Amirfluts-blue)](https://twitter.com/amirfluts?t=b-GOuaf3mJibNbAFHY_mEA&s=09)
+- [![Telegram](https://img.shields.io/badge/Telegram-Amnk80-blue)](https://t.me/Amnk80)
+- [![Linktree](https://img.shields.io/badge/Linktree-Amirmahdi_Nourkazemi-yellow)](https://linktr.ee/Amirmahdi_Nourkazemi)
