@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Amirmahdi Nourkazemi! 👋
 
-<!--
-**Amirmahdi1380/Amirmahdi1380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student with a strong passion for creating innovative solutions. With two years of experience as a Flutter developer, I've had the privilege of developing applications that have reached over 2,000 users and crafting web applications using Flutter. Currently, I'm part of a team at Vada House of Mobile, where I continue to expand my skills and contribute to exciting projects.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Flutter**
+- **Dart**
+- **Figma**
+- **Postman**
+- **MySQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+- **Flutter Developer** at Vada House of Mobile
+- **Software Engineering Student**
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/amirmahdi-nourkazemi-04613023a/)
+- [Instagram](https://www.instagram.com/amirfluts/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
+- [Medium](https://medium.com/@nourkazemi80)
+- [Twitter](https://twitter.com/amirfluts?t=b-GOuaf3mJibNbAFHY_mEA&s=09)
+- [Telegram](https://t.me/Amnk80)
+- [Linktree](https://linktr.ee/Amirmahdi_Nourkazemi)
