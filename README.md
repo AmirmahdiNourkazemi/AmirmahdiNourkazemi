@@ -2,14 +2,9 @@
 
 I'm a software engineering student with a strong passion for creating innovative solutions. With two years of experience as a Flutter developer, I've had the privilege of developing applications that have reached over 2,000 users and crafting web applications using Flutter. Currently, I'm part of a team at Vada House of Mobile, where I continue to expand my skills and contribute to exciting projects.
 
-## 🚀 Skills
-- **Flutter**
-- **Dart**
-- **Figma**
-- **Postman**
-- **MySQL**
+## 🚀 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,figma,postman&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,figma,postman,postgres,&perline=6)](https://skillicons.dev)
 
 
 ## 💼 Experience
