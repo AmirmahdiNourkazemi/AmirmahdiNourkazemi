@@ -14,10 +14,9 @@ I'm a software engineering student with a strong passion for creating innovative
 - **Software Engineering Student**
 
 ## 🔗 Connect with Me
-## 🔗 Connect with Me
-- [<img src="https://simpleicons.org/icons/linkedin.svg" width="20" height="20"/> LinkedIn](https://www.linkedin.com/in/amirmahdi-nourkazemi-04613023a/)
-- [<img src="https://simpleicons.org/icons/instagram.svg" width="20" height="20"/> Instagram](https://www.instagram.com/amirfluts/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
-- [<img src="https://simpleicons.org/icons/medium.svg" width="20" height="20"/> Medium](https://medium.com/@nourkazemi80)
-- [<img src="https://simpleicons.org/icons/twitter.svg" width="20" height="20"/> Twitter](https://twitter.com/amirfluts?t=b-GOuaf3mJibNbAFHY_mEA&s=09)
-- [<img src="https://simpleicons.org/icons/telegram.svg" width="20" height="20"/> Telegram](https://t.me/Amnk80)
-- [<img src="https://simpleicons.org/icons/linktree.svg" width="20" height="20"/> Linktree](https://linktr.ee/Amirmahdi_Nourkazemi)
+- [<img src="https://simpleicons.org/icons/linkedin.svg" width="20" height="20" style="filter: invert(80%);"/> LinkedIn](https://www.linkedin.com/in/amirmahdi-nourkazemi-04613023a/)
+- [<img src="https://simpleicons.org/icons/instagram.svg" width="20" height="20" style="filter: invert(80%);"/> Instagram](https://www.instagram.com/amirfluts/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
+- [<img src="https://simpleicons.org/icons/medium.svg" width="20" height="20" style="filter: invert(80%);"/> Medium](https://medium.com/@nourkazemi80)
+- [<img src="https://simpleicons.org/icons/twitter.svg" width="20" height="20" style="filter: invert(80%);"/> Twitter](https://twitter.com/amirfluts?t=b-GOuaf3mJibNbAFHY_mEA&s=09)
+- [<img src="https://simpleicons.org/icons/telegram.svg" width="20" height="20" style="filter: invert(80%);"/> Telegram](https://t.me/Amnk80)
+- [<img src="https://simpleicons.org/icons/linktree.svg" width="20" height="20" style="filter: invert(80%);"/> Linktree](https://linktr.ee/Amirmahdi_Nourkazemi)
