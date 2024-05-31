@@ -28,14 +28,14 @@ I'm a software engineering student with a strong passion for creating innovative
 ## 📊 GitHub Stats:
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Amirmahdi1380&show_icons=true&theme=dark&hide_rank=false&rank_icon=github&include_all_commits=false"
+    srcset="https://github-readme-stats.vercel.app/api?username=AmirmahdiNourkazemi&show_icons=true&theme=dark&hide_rank=false&rank_icon=github&include_all_commits=false"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Amirmahdi1380&show_icons=true&hide_rank=false"
+    srcset="https://github-readme-stats.vercel.app/api?username=AmirmahdiNourkazemi&show_icons=true&hide_rank=false"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirmahdi1380&show_icons=true&hide_rank=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirmahdiNourkazemi&show_icons=true&hide_rank=false" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmahdi1380&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmahdiNourkazemi&hide_progress=true&theme=dark)
