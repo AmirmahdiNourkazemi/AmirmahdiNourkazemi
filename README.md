@@ -4,7 +4,7 @@ I'm a software engineering student with a strong passion for creating innovative
 
 ## 🚀 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,figma,postman,postgres,&perline=7)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,figma,postman,postgres,nodejs,react&perline=9)
 
 ## 👦🏻 About Me
 - Passionate about learning new things.
