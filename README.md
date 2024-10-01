@@ -36,6 +36,9 @@ I'm a software engineering student with a strong passion for creating innovative
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=AmirmahdiNourkazemi&show_icons=true&hide_rank=false" />
-</picture>
-![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=AmirmahdiNourkazemi&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmahdiNourkazemi&hide_progress=true&theme=dark)
+</picture></br>
+
+
+![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=AmirmahdiNourkazemi&theme=dark&hide_border=false)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmahdiNourkazemi&hide_progress=true&theme=dark)</br>
+
