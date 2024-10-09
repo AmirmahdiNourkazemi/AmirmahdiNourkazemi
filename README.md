@@ -25,6 +25,13 @@ I'm a software engineering student with a strong passion for creating innovative
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://wa.me/message/5LYZH3PPEX2OE1)
 [<img src="https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png" width="47" height="46" style="border-radius: 10%;"/>](https://linktr.ee/Amirmahdi_Nourkazemi)
 
+
+## 📦 My Flutter Packages
+
+- **animated_botton_navigation**: An animated bottom navigation bar for Flutter, designed to provide a smooth and visually appealing transition between tabs.
+- Available on [Pub.dev](https://pub.dev/packages/animated_botton_navigation)
+- Available on [Flutter Gems](https://fluttergems.dev/packages/animated_botton_navigation/)
+
 ## 📊 GitHub Stats:
 <picture>
   <source
