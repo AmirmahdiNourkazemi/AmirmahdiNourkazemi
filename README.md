@@ -28,7 +28,7 @@ I'm a software engineering student with a strong passion for creating innovative
 
 ## 📦 My Flutter Packages
 
-- **animated_botton_navigation**: An animated bottom navigation bar for Flutter, designed to provide a smooth and visually appealing transition between tabs.
+**animated_botton_navigation**: An animated bottom navigation bar for Flutter, designed to provide a smooth and visually appealing transition between tabs.
 - Available on [Pub.dev](https://pub.dev/packages/animated_botton_navigation)
 - Available on [Flutter Gems](https://fluttergems.dev/packages/animated_botton_navigation/)
 
