@@ -5,7 +5,7 @@ I'm always eager to learn, collaborate, and bring new ideas to life through tech
 
 ## 🚀 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,figma,postman,postgres,nodejs,react&perline=9)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,figma,postman,postgres,nodejs,react,go&perline=9)
 
 ## 👦🏻 About Me
 - Passionate about learning new things.
@@ -32,6 +32,9 @@ I'm always eager to learn, collaborate, and bring new ideas to life through tech
 **animated_botton_navigation**: An animated bottom navigation bar for Flutter, designed to provide a smooth and visually appealing transition between tabs.
 - Available on [Pub.dev](https://pub.dev/packages/animated_botton_navigation)
 - Available on [Flutter Gems](https://fluttergems.dev/packages/animated_botton_navigation/)
+
+**numeric_selector**: A customizable Numeric Selector package for Flutter, providing both Horizontal and Vertical Numeric Selector with smooth scrolling and optional vibration feedback.
+- Available on [Pub.dev](https://pub.dev/packages/numeric_selector)
 
 ## 📊 GitHub Stats:
 <picture>
