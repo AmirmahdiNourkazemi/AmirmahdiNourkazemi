@@ -36,6 +36,17 @@ I'm always eager to learn, collaborate, and bring new ideas to life through tech
 **numeric_selector**: A customizable Numeric Selector package for Flutter, providing both Horizontal and Vertical Numeric Selector with smooth scrolling and optional vibration feedback.
 - Available on [Pub.dev](https://pub.dev/packages/numeric_selector)
 
+## 📌 GitHub Pins
+
+
+ [![Tesla App](https://github-readme-stats.vercel.app/api/pin/?username=AmirmahdiNourkazemi&repo=Tesla_app)](https://github.com/AmirmahdiNourkazemi/Tesla_app)  [![Crypto UI](https://github-readme-stats.vercel.app/api/pin/?username=AmirmahdiNourkazemi&repo=cryptoUi)](https://github.com/AmirmahdiNourkazemi/cryptoUi) </br>
+[![animated_botton_navigation Package](https://github-readme-stats.vercel.app/api/pin/?username=AmirmahdiNourkazemi&repo=animated_botton_navigation)](https://github.com/AmirmahdiNourkazemi/animated_botton_navigation)
+[![numeric_selector Package](https://github-readme-stats.vercel.app/api/pin/?username=AmirmahdiNourkazemi&repo=numeric_selector)](https://github.com/AmirmahdiNourkazemi/numeric_selector)
+
+
+
+
+
 ## 📊 GitHub Stats:
 <picture>
   <source
@@ -49,7 +60,4 @@ I'm always eager to learn, collaborate, and bring new ideas to life through tech
   <img src="https://github-readme-stats.vercel.app/api?username=AmirmahdiNourkazemi&show_icons=true&hide_rank=false" />
 </picture></br>
 
-
-![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=AmirmahdiNourkazemi&theme=dark&hide_border=false)</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmahdiNourkazemi&hide_progress=true&theme=dark)</br>
 
