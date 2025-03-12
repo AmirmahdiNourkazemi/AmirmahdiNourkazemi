@@ -1,6 +1,6 @@
 # Hi there, I'm Amirmahdi Nourkazemi! 👋
 
-I’m a dedicated software engineering student with a strong focus on creating innovative and user-friendly applications. With two years of experience as a Flutter developer, I've successfully developed mobile and web applications that have reached over 5,000 users. Currently, I’m honing my skills and contributing to impactful projects as part of the team at Vada House of Mobile.
+I’m a dedicated software engineering student with a strong focus on creating innovative and user-friendly applications. With three years of experience as a Flutter developer, I've successfully developed mobile and web applications that have reached over 5,000 users. Currently, I’m honing my skills and contributing to impactful projects as part of the team at Vada House of Mobile.
 I'm always eager to learn, collaborate, and bring new ideas to life through technology.
 
 ## 🚀 Tech Stack
