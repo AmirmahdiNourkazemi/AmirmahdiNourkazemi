@@ -35,7 +35,8 @@ I'm always eager to learn, collaborate, and bring new ideas to life through tech
 
 **numeric_selector**: A customizable Numeric Selector package for Flutter, providing both Horizontal and Vertical Numeric Selector with smooth scrolling and optional vibration feedback.
 - Available on [Pub.dev](https://pub.dev/packages/numeric_selector)
-
+- Available on [Flutter Gems](https://fluttergems.dev/packages/numeric_selector/)
+ 
 ## 📌 GitHub Pins
 
 
