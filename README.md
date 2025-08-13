@@ -5,14 +5,14 @@ I'm always eager to learn, collaborate, and bring new ideas to life through tech
 
 ## 🚀 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,figma,postman,postgres,nodejs,react,go&perline=9)
+![My Skills](https://skillicons.dev/icons?i=dart,kotlin,flutter,firebase,laravel,react,androidstudio,postman,figma&perline=12)
 
 ## 👦🏻 About Me
 - Passionate about learning new things.
 - Enjoy sharing knowledge and experiences.
 - Love cars and automotive technology.
 - Share my videos and articles on LinkedIn, follow me for updates!
-- Actively contribute to the Persian Cafe Flutter community to share experiences and insights.
+- Actively contribute to the Flutter communities to share experiences and insights.
 - Advocate for diversity and inclusion in tech.
 - Enjoy exploring new technologies and their applications.
 
