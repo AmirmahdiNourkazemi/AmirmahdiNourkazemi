@@ -1,21 +1,38 @@
-# Hi there, I'm Amirmahdi Nourkazemi! 👋
+# Hi there, I'm AmirMahdi Nourkazemi 👋
 
-I’m a dedicated software engineering student with a strong focus on creating innovative and user-friendly applications. With three years of experience as a Flutter developer, I've successfully developed mobile and web applications that have reached over 5,000 users. Currently, I’m honing my skills and contributing to impactful projects as part of the team at Vada House of Mobile.
-I'm always eager to learn, collaborate, and bring new ideas to life through technology.
+### 📱 Mobile Software Engineer — Flutter & Native Android (Kotlin)
+
+Mobile Software Engineer with **3+ years** building and shipping cross-platform and native Android apps. I've authored **6 apps on Google Play** across **Persian, Turkish, and Arabic** markets with **500K+ combined installs**, currently at **Vada House of Mobile**. I care about clean architecture, native platform depth, and shipping polished products end-to-end.
+
+🌍 **Open to relocation & remote opportunities** — EU · Ireland · Australia &nbsp;|&nbsp; 📫 nourkazemi80@gmail.com
 
 ## 🚀 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=dart,kotlin,flutter,firebase,laravel,react,androidstudio,postman,figma&perline=12)
+![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,androidstudio,firebase,gradle,git,postman,figma&perline=12)
+
+**Also working with:** Kotlin Multiplatform (KMP) · Jetpack Compose · Clean Architecture · Bloc / Riverpod / GetX · REST / GraphQL · Firebase · CI/CD (GitHub Actions / Codemagic)
+
+## 📱 Published Apps (Google Play)
+
+| App | Market | What it does |
+|-----|--------|--------------|
+| [Smart Calorie Counter](https://play.google.com/store/apps/details?id=com.devgroup.smartcalorie) | Persian | AI food-scanning calorie & nutrition tracker (Flutter) |
+| [Zangam — Caller ID & Dialer](https://play.google.com/store/apps/details?id=com.vada.callmanager) | Persian | Native replacement dialer built on the Android **Telecom framework** (Kotlin) |
+| [Planto](https://play.google.com/store/apps/details?id=com.vadaintl.turkish.planto) | Turkish | Plant-care & photo identification |
+| [Blood Test Analysis](https://play.google.com/store/apps/details?id=com.globul.arabic) | Arabic | AI-assisted medical test reader |
+| [Parents](https://play.google.com/store/apps/details?id=com.devgroup.parents) | Persian | Parental-control & family-safety app |
+| [GolBin](https://play.google.com/store/apps/details?id=com.idea.dev) | Persian | Photo-based plant identification |
+
+## 🌱 Currently exploring
+
+Kotlin Multiplatform & Compose Multiplatform · on-device AI (Google ML Kit, Gemini Nano) · advanced testing
 
 ## 👦🏻 About Me
-- Passionate about learning new things.
-- Enjoy sharing knowledge and experiences.
-- Love cars and automotive technology.
-- Share my videos and articles on LinkedIn, follow me for updates!
-- Actively contribute to the Flutter communities to share experiences and insights.
-- Advocate for diversity and inclusion in tech.
-- Enjoy exploring new technologies and their applications.
-
+- 3+ years shipping production mobile apps (Flutter + native Kotlin) used by 500K+ people.
+- Deep in **native Android**: Telecom framework, Health Connect, platform channels, foreground services.
+- Author of two open-source Flutter packages on pub.dev.
+- Actively contribute to the Flutter community to share experiences and insights.
+- Love cars and automotive technology 🚗.
 
 ## 🔗 Connect with Me
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://www.linkedin.com/in/amirmahdi-nourkazemi-04613023a/)
@@ -26,7 +43,6 @@ I'm always eager to learn, collaborate, and bring new ideas to life through tech
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://wa.me/message/5LYZH3PPEX2OE1)
 [<img src="https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png" width="47" height="46" style="border-radius: 10%;"/>](https://linktr.ee/Amirmahdi_Nourkazemi)
 
-
 ## 📦 My Flutter Packages
 
 **animated_botton_navigation**: An animated bottom navigation bar for Flutter, designed to provide a smooth and visually appealing transition between tabs.
@@ -36,17 +52,12 @@ I'm always eager to learn, collaborate, and bring new ideas to life through tech
 **numeric_selector**: A customizable Numeric Selector package for Flutter, providing both Horizontal and Vertical Numeric Selector with smooth scrolling and optional vibration feedback.
 - Available on [Pub.dev](https://pub.dev/packages/numeric_selector)
 - Available on [Flutter Gems](https://fluttergems.dev/packages/numeric_selector/)
- 
-## 📌 GitHub Pins
 
+## 📌 GitHub Pins
 
  [![Tesla App](https://github-readme-stats.vercel.app/api/pin/?username=AmirmahdiNourkazemi&repo=Tesla_app)](https://github.com/AmirmahdiNourkazemi/Tesla_app)  [![Crypto UI](https://github-readme-stats.vercel.app/api/pin/?username=AmirmahdiNourkazemi&repo=cryptoUi)](https://github.com/AmirmahdiNourkazemi/cryptoUi) </br>
 [![animated_botton_navigation Package](https://github-readme-stats.vercel.app/api/pin/?username=AmirmahdiNourkazemi&repo=animated_botton_navigation)](https://github.com/AmirmahdiNourkazemi/animated_botton_navigation)
 [![numeric_selector Package](https://github-readme-stats.vercel.app/api/pin/?username=AmirmahdiNourkazemi&repo=numeric_selector)](https://github.com/AmirmahdiNourkazemi/numeric_selector)
-
-
-
-
 
 ## 📊 GitHub Stats:
 <picture>
@@ -60,5 +71,3 @@ I'm always eager to learn, collaborate, and bring new ideas to life through tech
   />
   <img src="https://github-readme-stats.vercel.app/api?username=AmirmahdiNourkazemi&show_icons=true&hide_rank=false" />
 </picture></br>
-
-
