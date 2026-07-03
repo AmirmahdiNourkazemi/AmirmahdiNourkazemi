@@ -4,7 +4,6 @@
 
 Mobile Software Engineer with **3+ years** building and shipping cross-platform and native Android apps. I've authored **6 apps on Google Play** across **Persian, Turkish, and Arabic** markets with **500K+ combined installs**, currently at **Vada House of Mobile**. I care about clean architecture, native platform depth, and shipping polished products end-to-end.
 
-🌍 **Open to relocation & remote opportunities** — EU · Ireland · Australia &nbsp;|&nbsp; 📫 nourkazemi80@gmail.com
 
 ## 🚀 Tech Stack
 
@@ -22,10 +21,6 @@ Mobile Software Engineer with **3+ years** building and shipping cross-platform 
 | [Blood Test Analysis](https://play.google.com/store/apps/details?id=com.globul.arabic) | Arabic | AI-assisted medical test reader |
 | [Parents](https://play.google.com/store/apps/details?id=com.devgroup.parents) | Persian | Parental-control & family-safety app |
 | [GolBin](https://play.google.com/store/apps/details?id=com.idea.dev) | Persian | Photo-based plant identification |
-
-## 🌱 Currently exploring
-
-Kotlin Multiplatform & Compose Multiplatform · on-device AI (Google ML Kit, Gemini Nano) · advanced testing
 
 ## 👦🏻 About Me
 - 3+ years shipping production mobile apps (Flutter + native Kotlin) used by 500K+ people.
