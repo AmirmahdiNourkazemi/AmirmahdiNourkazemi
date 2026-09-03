@@ -1,6 +1,6 @@
 # Hi there, I'm AmirMahdi Nourkazemi 👋
 
-### 📱 Mobile Software Engineer — Flutter & Native Android (Kotlin)
+### 📱 Mobile Software Engineer — Flutter & Android Native
 
 Mobile Software Engineer with **3+ years** building and shipping cross-platform and native Android apps. I've authored **6 apps on Google Play** across **Persian, Turkish, and Arabic** markets with **500K+ combined installs**, currently at **Vada House of Mobile**. I care about clean architecture, native platform depth, and shipping polished products end-to-end.
 
