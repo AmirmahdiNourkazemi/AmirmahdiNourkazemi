@@ -58,12 +58,12 @@ I specialize in turning product requirements into maintainable, production-ready
 
 | Product | Platform | Highlights |
 |---|---|---|
-| **Kam Calorie — AI Calorie Counter** | Kotlin / Jetpack Compose | AI food recognition, nutrition tracking, Health Connect, WorkManager, MVVM, Koin |
-| **Zangam — Caller ID & Dialer** | Kotlin / Android | Native dialer and caller-management experience using Android Telecom APIs |
-| **Planto** | Flutter / Android | Plant-care and image-based plant identification |
-| **Blood Test Analysis** | Flutter / Android | AI-assisted medical test analysis for the Arabic market |
-| **Parents** | Flutter / Android | Parental-control and family-safety features |
-| **GolBin** | Flutter / Android | Image-based plant identification |
+| [**Kam Calorie — Calorie Counter**](https://play.google.com/store/apps/details?id=com.devgroup.smartcalorie) | Kotlin / Jetpack Compose | Nutrition tracking, Health Connect, WorkManager, MVVM, Koin |
+| [**Zangam — Caller ID & Dialer**](https://play.google.com/store/apps/details?id=com.vada.callmanager) | Kotlin / Android | Native dialer and caller-management experience using Android Telecom APIs |
+| [**Planto**](https://play.google.com/store/apps/details?id=com.vadaintl.turkish.planto) | Flutter / Android | Plant-care and image-based plant identification |
+| [**Blood Test Analysis**](https://play.google.com/store/apps/details?id=com.globul.arabic) | Flutter / Android | Medical test analysis for the Arabic market |
+| [**Parents — Family Tracker**](https://play.google.com/store/apps/details?id=com.devgroup.parents) | Flutter / Android | Family and child location tracking features |
+| [**GolBin**](https://play.google.com/store/apps/details?id=com.idea.dev) | Flutter / Android | Image-based plant identification |
 
 > These are selected products from my professional development work. Some projects and source code are private.
 
@@ -79,8 +79,7 @@ I’m particularly interested in:
 - **Flutter architecture and performance**
 - **Kotlin Coroutines & Flow**
 - **Kotlin Multiplatform (KMP)**
-- **AI-powered mobile applications**
-- **Computer vision and on-device capabilities**
+- **Computer vision and mobile capabilities**
 - **Developer tooling and reusable Flutter packages**
 
 ---
@@ -106,7 +105,7 @@ A Flutter animated bottom navigation component focused on smooth tab transitions
 
 Here are some repositories that represent the areas I enjoy working in:
 
-- 📱 [**smart-calorie**](https://github.com/AmirmahdiNourkazemi/smart-calorie) — AI calorie & nutrition tracking application
+- 📱 [**smart-calorie**](https://github.com/AmirmahdiNourkazemi/smart-calorie) — Calorie & nutrition tracking application
 - 📞 [**caller-id**](https://github.com/AmirmahdiNourkazemi/caller-id) — Native Android caller ID and dialer using the Telecom framework
 - 🔢 [**numeric_selector**](https://github.com/AmirmahdiNourkazemi/numeric_selector) — Open-source Flutter package
 - 🎨 [**animation_flutter**](https://github.com/AmirmahdiNourkazemi/animation_flutter) — Flutter animation experiments and examples
@@ -123,14 +122,6 @@ I have presented and shared content around **Flutter animations, UI development,
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirmahdiNourkazemi&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmahdiNourkazemi&layout=compact&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 **LinkedIn:** [Amirmahdi Nourkazemi](https://www.linkedin.com/in/amirmahdi-nourkazemi-04613023a/)
@@ -142,7 +133,7 @@ I have presented and shared content around **Flutter animations, UI development,
 
 ---
 
-### 💬 Interested in Mobile Engineering, Flutter, Android or AI-powered apps?
+### 💬 Interested in Mobile Engineering, Flutter or Android?
 
 Feel free to connect or explore my repositories.
 
