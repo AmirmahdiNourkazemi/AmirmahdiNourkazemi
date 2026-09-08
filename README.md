@@ -30,27 +30,48 @@ I enjoy working across the full product lifecycle — from architecture and UI t
 
 ---
 
-## 🚀 Production Experience
+## 💼 Professional Experience
 
-I specialize in turning product requirements into maintainable, production-ready mobile applications.
+### 🏢 VADA House of Mobile — Tehran, Iran
+**Mobile Engineer (Android Native & Flutter)** · Full-time  
+**Sep 2023 – Present**
 
-### Native Android
+- 🚀 Delivered **6 production apps** to Google Play across **Persian, Turkish, and Arabic** markets, reaching **500K+ combined installs** — from architecture to release.
+- 📞 Built a full **system-replacement dialer** in native Kotlin using the **Android Telecom framework**, including `InCallService`, `ConnectionService`, self-registered `PhoneAccount`, and `RoleManager` with lock-screen call UI and dual-SIM support.
+- 🔗 Integrated **3rd-party telephony libraries** and implemented crash-free calling sessions.
+- 📍 Architected real-time location handling using **foreground services and WebSockets**, improving user satisfaction by approximately **40%**.
+- 🔐 Integrated **biometrics, Google Sign-In, and Google Play payments**, improving authentication/payment success by approximately **30%**.
+- ⚡ Reduced app size by approximately **30%** using native platform channels and improved query performance by approximately **35%** through relational data modeling.
+- 🤖 Automated **GitHub Actions CI/CD** workflows with Firebase.
 
-- 📞 Built Android calling and dialer experiences using the **Telecom framework**
-- 🏃 Implemented **foreground services** for long-running background operations
-- ❤️ Integrated **Health Connect** for health and activity data
-- 🔗 Built Flutter ↔ Android integrations using **platform channels**
-- 🔔 Implemented reliable background reminders with **WorkManager** and Android scheduling APIs
-- 🎨 Building modern Android applications with **Kotlin + Jetpack Compose + Material 3**
+**Technologies:** Flutter · Dart · Kotlin · Android SDK · Jetpack Compose · Android Telecom · WebSockets · Foreground Services · Platform Channels · Firebase · GitHub Actions
 
-### Flutter
+#### Flutter Developer · Part-time
+**Aug 2023 – Oct 2023**
 
-- 🏗️ Clean Architecture and feature-based project structures
-- 🔄 BLoC, Riverpod, GetX and MVVM-based state management
-- 🌐 REST API and backend integration
-- 📦 Published reusable Flutter packages on pub.dev
-- ✨ Custom animations, responsive UI and reusable components
-- ⚡ Performance optimization and production debugging
+Worked on Flutter-based mobile product development and contributed to production application delivery.
+
+**Technologies:** Flutter · Dart · State Management · REST APIs
+
+---
+
+### 💼 Smartfunding
+**Flutter Developer** · Full-time  
+**Aug 2024 – Present**
+
+Working on mobile product development with Flutter, focusing on production application features, architecture, and delivery.
+
+**Technologies:** Flutter · Dart · Mobile Product Development
+
+---
+
+### 🌐 CINUV — Tehran Province, Iran
+**Flutter Developer** · Contract · Remote  
+**Aug 2022 – Aug 2023**
+
+Worked on the **CINVU Plus** mobile application, an office/conference application for multimedia employees to communicate and hold conferences.
+
+**Technologies:** Flutter · State Management · REST APIs
 
 ---
 
