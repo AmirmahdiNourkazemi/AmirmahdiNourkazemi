@@ -1,49 +1,149 @@
-# Hi there, I'm AmirMahdi Nourkazemi 👋
+# Hi, I'm AmirMahdi Nourkazemi 👋
 
-### 📱 Mobile Software Engineer — Flutter & Android Native
+### 📱 Mobile Software Engineer | Flutter & Native Android
 
-Mobile Software Engineer with **3+ years** building and shipping cross-platform and native Android apps. I've authored **6 apps on Google Play** across **Persian, Turkish, and Arabic** markets with **500K+ combined installs**, currently at **Vada House of Mobile**. I care about clean architecture, native platform depth, and shipping polished products end-to-end.
+I’m a **Mobile Software Engineer** focused on building and shipping production mobile applications with **Flutter, Kotlin, and Android**.
 
+I enjoy working across the full product lifecycle — from architecture and UI to native Android integrations, APIs, performance, testing, CI/CD, and publishing apps to production.
 
-## 🚀 Tech Stack
+- 🚀 **3+ years** of professional mobile development experience
+- 📱 **6+ production apps** published on Google Play
+- 👥 Apps shipped to **500K+ users combined**
+- 🌍 Experience building products for **Persian, Turkish, and Arabic** markets
+- 🏢 Currently working at **Vada House of Mobile**
+- 🧩 Open-source Flutter package author
+- 🎓 Computer Engineering student
 
-![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,androidstudio,firebase,gradle,git,postman,figma&perline=12)
+---
 
-**Also working with:** Kotlin Multiplatform (KMP) · Jetpack Compose · Clean Architecture · Bloc / Riverpod / GetX · REST / GraphQL · Firebase · CI/CD (GitHub Actions / Codemagic)
+## 🛠️ What I Work With
 
-## 📱 Published Apps (Google Play)
+### Mobile Development
 
-| App | Market | What it does |
-|-----|--------|--------------|
-| [Smart Calorie Counter](https://play.google.com/store/apps/details?id=com.devgroup.smartcalorie) | Persian | AI food-scanning calorie & nutrition tracker (Flutter) |
-| [Zangam — Caller ID & Dialer](https://play.google.com/store/apps/details?id=com.vada.callmanager) | Persian | Native replacement dialer built on the Android **Telecom framework** (Kotlin) |
-| [Planto](https://play.google.com/store/apps/details?id=com.vadaintl.turkish.planto) | Turkish | Plant-care & photo identification |
-| [Blood Test Analysis](https://play.google.com/store/apps/details?id=com.globul.arabic) | Arabic | AI-assisted medical test reader |
-| [Parents](https://play.google.com/store/apps/details?id=com.devgroup.parents) | Persian | Parental-control & family-safety app |
-| [GolBin](https://play.google.com/store/apps/details?id=com.idea.dev) | Persian | Photo-based plant identification |
+![Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,androidstudio,gradle,firebase,git,github,postman,figma&perline=10)
 
-## 👦🏻 About Me
-- 3+ years shipping production mobile apps (Flutter + native Kotlin) used by 500K+ people.
-- Deep in **native Android**: Telecom framework, Health Connect, platform channels, foreground services.
-- Author of two open-source Flutter packages on pub.dev.
-- Actively contribute to the Flutter community to share experiences and insights.
-- Love cars and automotive technology 🚗.
+**Flutter:** BLoC · Riverpod · GetX · MVVM · Clean Architecture · SOLID · REST APIs · GraphQL · Firebase · Rive · Lottie
 
-## 🔗 Connect with Me
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://www.linkedin.com/in/amirmahdi-nourkazemi-04613023a/)
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://www.instagram.com/amirfluts/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://twitter.com/amirfluts?t=b-GOuaf3mJibNbAFHY_mEA&s=09)
-[<img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/telegram-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://t.me/Amnk80)
-[<img src="https://cdn4.iconfinder.com/data/icons/address-book-providers-in-colors/512/gmail-512.png" width="47" height="46" style="margin-right: 5px;"/>](mailto:nourkazemi80@gmail.com)
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://wa.me/message/5LYZH3PPEX2OE1)
-[<img src="https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png" width="47" height="46" style="border-radius: 10%;"/>](https://linktr.ee/Amirmahdi_Nourkazemi)
+**Android:** Kotlin · Jetpack Compose · Material 3 · MVVM · Coroutines · Flow · Koin · Hilt · DataStore · WorkManager · Health Connect · Android Telecom · Foreground Services · Platform Channels
 
-## 📦 My Flutter Packages
+**Other:** Git · GitHub Actions · Codemagic · CI/CD · REST APIs · Laravel · Node.js · SQL · UI/UX implementation
 
-**animated_botton_navigation**: An animated bottom navigation bar for Flutter, designed to provide a smooth and visually appealing transition between tabs.
-- Available on [Pub.dev](https://pub.dev/packages/animated_botton_navigation)
-- Available on [Flutter Gems](https://fluttergems.dev/packages/animated_botton_navigation/)
+---
 
-**numeric_selector**: A customizable Numeric Selector package for Flutter, providing both Horizontal and Vertical Numeric Selector with smooth scrolling and optional vibration feedback.
-- Available on [Pub.dev](https://pub.dev/packages/numeric_selector)
-- Available on [Flutter Gems](https://fluttergems.dev/packages/numeric_selector/)
+## 🚀 Production Experience
+
+I specialize in turning product requirements into maintainable, production-ready mobile applications.
+
+### Native Android
+
+- 📞 Built Android calling and dialer experiences using the **Telecom framework**
+- 🏃 Implemented **foreground services** for long-running background operations
+- ❤️ Integrated **Health Connect** for health and activity data
+- 🔗 Built Flutter ↔ Android integrations using **platform channels**
+- 🔔 Implemented reliable background reminders with **WorkManager** and Android scheduling APIs
+- 🎨 Building modern Android applications with **Kotlin + Jetpack Compose + Material 3**
+
+### Flutter
+
+- 🏗️ Clean Architecture and feature-based project structures
+- 🔄 BLoC, Riverpod, GetX and MVVM-based state management
+- 🌐 REST API and backend integration
+- 📦 Published reusable Flutter packages on pub.dev
+- ✨ Custom animations, responsive UI and reusable components
+- ⚡ Performance optimization and production debugging
+
+---
+
+## 📱 Selected Production Apps
+
+| Product | Platform | Highlights |
+|---|---|---|
+| **Kam Calorie — AI Calorie Counter** | Kotlin / Jetpack Compose | AI food recognition, nutrition tracking, Health Connect, WorkManager, MVVM, Koin |
+| **Zangam — Caller ID & Dialer** | Kotlin / Android | Native dialer and caller-management experience using Android Telecom APIs |
+| **Planto** | Flutter / Android | Plant-care and image-based plant identification |
+| **Blood Test Analysis** | Flutter / Android | AI-assisted medical test analysis for the Arabic market |
+| **Parents** | Flutter / Android | Parental-control and family-safety features |
+| **GolBin** | Flutter / Android | Image-based plant identification |
+
+> These are selected products from my professional development work. Some projects and source code are private.
+
+---
+
+## 🧠 Engineering Interests
+
+I’m particularly interested in:
+
+- **Mobile architecture & scalable codebases**
+- **Native Android development with Kotlin**
+- **Jetpack Compose & modern Android development**
+- **Flutter architecture and performance**
+- **Kotlin Coroutines & Flow**
+- **Kotlin Multiplatform (KMP)**
+- **AI-powered mobile applications**
+- **Computer vision and on-device capabilities**
+- **Developer tooling and reusable Flutter packages**
+
+---
+
+## 📦 Open Source
+
+### [`numeric_selector`](https://pub.dev/packages/numeric_selector)
+
+A customizable Flutter numeric selector supporting **horizontal and vertical scrolling**, configurable styling, labels, arrows, step values and optional vibration feedback.
+
+[![pub package](https://img.shields.io/pub/v/numeric_selector.svg)](https://pub.dev/packages/numeric_selector)
+[![GitHub](https://img.shields.io/github/stars/AmirmahdiNourkazemi/numeric_selector?style=flat)](https://github.com/AmirmahdiNourkazemi/numeric_selector)
+
+### [`animated_botton_navigation`](https://pub.dev/packages/animated_botton_navigation)
+
+A Flutter animated bottom navigation component focused on smooth tab transitions and customizable navigation UI.
+
+[![pub package](https://img.shields.io/pub/v/animated_botton_navigation.svg)](https://pub.dev/packages/animated_botton_navigation)
+
+---
+
+## ⭐ Featured Projects
+
+Here are some repositories that represent the areas I enjoy working in:
+
+- 📱 [**smart-calorie**](https://github.com/AmirmahdiNourkazemi/smart-calorie) — AI calorie & nutrition tracking application
+- 📞 [**caller-id**](https://github.com/AmirmahdiNourkazemi/caller-id) — Native Android caller ID and dialer using the Telecom framework
+- 🔢 [**numeric_selector**](https://github.com/AmirmahdiNourkazemi/numeric_selector) — Open-source Flutter package
+- 🎨 [**animation_flutter**](https://github.com/AmirmahdiNourkazemi/animation_flutter) — Flutter animation experiments and examples
+- 🏗️ [**flutter_bloc_clean_architecture**](https://github.com/AmirmahdiNourkazemi/flutter_bloc_clean_architecture) — Flutter Clean Architecture example
+- 🚗 [**Tesla_app**](https://github.com/AmirmahdiNourkazemi/Tesla_app) — Flutter UI project inspired by Tesla
+
+---
+
+## 📚 Community & Knowledge Sharing
+
+I enjoy sharing Flutter and mobile-development knowledge with the developer community.
+
+I have presented and shared content around **Flutter animations, UI development, and mobile engineering**, and I continue to publish experiments, reusable components, and technical projects on GitHub.
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirmahdiNourkazemi&show_icons=true&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmahdiNourkazemi&layout=compact&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 **LinkedIn:** [Amirmahdi Nourkazemi](https://www.linkedin.com/in/amirmahdi-nourkazemi-04613023a/)
+- 🐙 **GitHub:** [@AmirmahdiNourkazemi](https://github.com/AmirmahdiNourkazemi)
+- 📦 **Pub.dev:** [My Flutter packages](https://pub.dev/)
+- 📸 **Instagram:** [@amirfluts](https://instagram.com/amirfluts)
+- ✈️ **Telegram:** [@Amnk80](https://t.me/Amnk80)
+- 📧 **Email:** [nourkazemi80@gmail.com](mailto:nourkazemi80@gmail.com)
+
+---
+
+### 💬 Interested in Mobile Engineering, Flutter, Android or AI-powered apps?
+
+Feel free to connect or explore my repositories.
+
+⭐ If you find one of my projects useful, consider giving it a star!
