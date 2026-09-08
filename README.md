@@ -6,7 +6,7 @@ I’m a **Mobile Software Engineer** focused on building and shipping production
 
 I enjoy working across the full product lifecycle — from architecture and UI to native Android integrations, APIs, performance, testing, CI/CD, and publishing apps to production.
 
-- 🚀 **3+ years** of professional mobile development experience
+- 🚀 **4+ years** of professional mobile development experience
 - 📱 **6+ production apps** published on Google Play
 - 👥 Apps shipped to **500K+ users combined**
 - 🌍 Experience building products for **Persian, Turkish, and Arabic** markets
