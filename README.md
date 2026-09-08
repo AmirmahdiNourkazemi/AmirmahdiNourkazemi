@@ -138,11 +138,9 @@ Here are some repositories that represent the areas I enjoy working in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirmahdiNourkazemi&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true" height="165" alt="AmirMahdi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmahdiNourkazemi&layout=compact&langs_count=8&hide_border=true" height="165" alt="AmirMahdi's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirmahdiNourkazemi&show_icons=true&hide_rank=true&hide_border=true&cache_seconds=86400" height="165" alt="AmirMahdi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmahdiNourkazemi&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400" height="165" alt="AmirMahdi's top languages" />
 </p>
-
-> Stats are based on publicly available GitHub activity and public repositories.
 
 ---
 
